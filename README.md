@@ -5,7 +5,7 @@ The goal of this game is for one of the players to place their three distinctive
 If all the houses on the table are filled and no one wins, the game ends in a draw.<br/>
 This code uses functions such as ```print_board``` , ```check_winner``` , ```is_board_full``` ,```get_move``` and ```tic_tac_toe```.
 ## How to use:
-1. Simulate your repository: ```git clone https://github.com/MaryaJamali/Tic_Tac_Toe_Game.git```
+1. Simulate your repository: ```git clone https://github.com/MaryaJamali/Tic-Tac-Toe-Game.git```
 2. Run the program
 ## Instructions:
 Various functions are defined in this code :<br/><br/>
